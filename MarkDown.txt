@@ -1,0 +1,46 @@
+Estou aprendendo MarkDown:
+
+linha hr: --- ; ***
+negrito: **x** ; __x__
+italico: *x* ; _x_
+risco: ~~x~~;
+titulo: #x = h1
+       ##x = h2
+       {}
+       hy(y=numeros de #) = y*x
+       }
+lista numerada:
+{
+1. a
+2. b
+   1. b.a
+3. c
+}
+
+lista demarcada:
+{
+- ou *
+}
+
+lista de tarefas:
+{
+[]criar coragem pra programar
+[x]tentando pelo menos
+
+tabelas:
+
+name|numeber|year
+---|---|---
+luis | 500 | 20
+naty | 2 | 19
+}
+
+comandos:
+{
+'x.conta()'
+
+'''
+var letter = getdocumentbyid('info').value
+    sla(letter)
+'''
+}
